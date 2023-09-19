@@ -1,0 +1,68 @@
+"Blacklist" = "Blacklist";
+"بلیک لِسٹ" = "بلیک لِسٹ"؛
+"name or identifier" = "name or identifier";
+"نام یا شناخت کنندہ" = "نام یا شناخت کنندہ"؛
+"varClean" = "varClean";
+“کلین کریں  میں فائلز کوVAR”   =“کلین کریں  میں فائلز کوVAR”
+"Clean" = "Clean";
+"صاف کریں" = "صاف کریں"؛
+"SeleteAll" = "SeleteAll";
+"سب کو منتخب کریں" = "سب کو منتخب کریں"؛
+
+"Setting" = "Setting";
+"سیٹنگز" = "سیٹنگز"
+"General" = "General";
+"جنرل" = "جنرل"؛
+"Whitelist Mode" = "Whitelist Mode";
+"وائٹ لِسٹ موڈ" = "وائٹ لِسٹ موڈ"؛
+"auto blacklist newly installed apps" = "auto blacklist newly installed apps";
+"نئی انسٹال ہونے والی ایپس کو خود بخود بلیک لِسٹ کریں" = "نئی انسٹال ہونے والی ایپس کو خود بخود بلیک لِسٹ کریں
+
+"Advanced" = "Advanced";
+"ایڈوانس" = "ایڈوانس"
+"Edit varClean Rules" = "Edit varClean Rules";
+کلین کے قوانین کو ایڈٹ کریں"   VAR" کلین کے قوانین کو ایڈٹ کریں" =  VAR"
+
+"view the rules file in Filza" = "view the rules file in Filza";
+ میں قوانین کی فائل کو دیکھیں  Filza میں قوانین کی فائل کو دیکھیں = Filza
+
+"Misc" = "Misc";
+"متفرق" = "متفرق"؛
+"Hide xinaA15 Files" = "Hide xinaA15 Files";
+ کی فائلوں کو چھپائیں" = " xinaA15کی فائلوں کو چھپائیں "xinaA15"
+"hide xinaA15 files without uninstall it" = "hide xinaA15 files without uninstall it";
+" 15xinaA کی فائلز کو ان انسٹال کئے بغیر چھپائیں 
+" 15xinaA کی فائلز کو ان انسٹال کئے بغیر چھپائیں 
+” 
+
+
+"Got It" = "Got It";
+"ٹھیک ہے" = "ٹھیک ہے"؛
+"SSH Detected" = "SSH Detected";
+SSH کا پتہ چلا ہے  = SSH کا پتہ چلا ہے  
+
+"SSH Service has been installed, you can uninstall it via Sileo/Zebra." = "SSH Service has been installed, you can uninstall it via Sileo/Zebra.";
+ = “SSH کی سروس انسٹال ہوگئی ہے، آپ اس کو Sileo/Zebra کے ذریعے ان انسٹال کرسکتے ہیں” 
+SSH کی سروس انسٹال ہوگئی ہے، آپ اس کو Sileo/Zebra کے ذریعے ان انسٹال کرسکتے ہیں”
+"xinaA15 detected" = "xinaA15 detected";
+
+"xinaA15 jailbreak file has been installed, you can uninstall it via xinaA15 app or hide it in the settings of the RootHide app." = "xinaA15 jailbreak file has been installed, you can uninstall it via xinaA15 app or hide it in the settings of the RootHide app.";
+ " 15xinaA کی جیل بریک فائل انسٹال ہوگئی ہے، آپ اس کو 15xinaA کی ایپ کے ذریعے ان انسٹال کرسکتے ہیں یا ان کو RootHide ایپ کی سیٹنگز میں چھپا سکتے ہیں۔" =  " 15xinaA کی جیل بریک فائل انسٹال ہوگئی ہے، آپ اس کو 15xinaA کی ایپ کے ذریعے ان انسٹال کرسکتے ہیں یا ان کو RootHide ایپ کی سیٹنگز میں چھپا سکتے ہیں۔"؛
+"Process xinaA15 Files" = "Process xinaA15 Files";
+پراسیس کریں  15xinaA کی فائلز کو" = پراسیس کریں  15xinaA کی فائلز کو"
+
+"xinaA15 files has been hidden, please reboot your device.\n\nyou can restore it later if you want to use xinaA15 again." = "xinaA15 files has been hidden, please reboot your device.\n\nyou can restore it later if you want to use xinaA15 again.";
+15xinaA کی فائلز چھپ گئی ہیں، برائے مہربانی اپنی ڈیوائس کو ری بوٹ کریں۔ /n/n آپ اسے بعد میں دوبارہ ریسٹور کرسکتے ہیں اگر آپ 15xinaA کو دوبارہ استعمال کرنا چاہتے ہیں۔ " = 15xinaA کی فائلز چھپ گئی ہیں، برائے مہربانی اپنی ڈیوائس کو ری بوٹ کریں۔ /n/n آپ اسے بعد میں دوبارہ ریسٹور کرسکتے ہیں اگر آپ 15xinaA کو دوبارہ استعمال کرنا چاہتے ہیں۔"؛
+
+"xinaA15 files has been restored, you can reboot your device to switch to xinaA15." = "xinaA15 files has been restored, you can reboot your device to switch to xinaA15.";
+15xinaA کی فائلز ریسٹور ہوگئی ہیں، آپ اپنی ڈیوائیس کو ری بوٹ کریں 15xinaA پر سوئچ کرنے کے لئے۔" = 15xinaA کی فائلز ریسٹور ہوگئی ہیں، آپ اپنی ڈیوائیس کو ری بوٹ کریں 15xinaA پر سوئچ کرنے کے لئے۔"؛
+
+"there are multiple xinaA15 jailbreak files, you can restore it manually:\n\n%s/" = "there are multiple xinaA15 jailbreak files, you can restore it manually:\n\n%s/";
+15xinaA کی ملٹی پل جیل بریک فائلز ہیں، آپ اس کو مینوئل طریقے سے ریسٹور کرسکتے ہیں:/n/n%s/" = 15xinaA کی ملٹی پل جیل بریک فائلز ہیں، آپ اس کو مینوئل طریقے سے ریسٹور کرسکتے ہیں:/n/n%s/"؛
+
+"restore failed: xinaA15 file not found!" = "restore failed: xinaA15 file not found!";
+ریسٹور فیل ہوگیا ہے: 15xinaA کی فائل نہیں ملی!" = ریسٹور فیل ہوگیا ہے: 15xinaA کی فائل نہیں ملی!"
+"restore failed: %@" = "restore failed: %@";
+"ریسٹور فیل ہوگیا ہے:%@" = "ریسٹور فیل ہوگیا ہے:%@"
+"hide failed: %@" = "hide failed: %@";
+چھپانے کا عمل ناکام ہوگیا: %@" = چھپانے کا عمل ناکام ہوگیا: %@"
